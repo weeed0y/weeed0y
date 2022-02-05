@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
 
-  "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
+  "logo": "https://te.legra.ph/file/5f00152effcf9fefc415e.jpg",
 
     "keywords": [
 
@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 
   ],
 
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
+  "repository": "https://github.com/weeed0y/PYTHONBOT-V9.0.8/",
 
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
+  "website": "https://github.com/weeed0y/PYTHONBOT-V9.0.8/",
 
-  "success_url": "https://t.me/Python_Userbot_Support",
+  "success_url": "https://t.me/Python_Userbot_Support_Pro",
 
   "env": {
 
@@ -192,7 +192,7 @@ You can click the Preview link to take a look at your changes.
 
     "LOGGER_ID": {
 
-      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @Babdollbot and paste here. Value should start with -100",
 
       "value": "",
 
@@ -256,7 +256,7 @@ You can click the Preview link to take a look at your changes.
 
     "PRIVATE_GROUP_BOT_API_ID": {
 
-      "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
+      "description": "Create a private group and  add @Babdollbot then type /id add that value here for save messages",
 
       "value": ""
 
@@ -264,7 +264,7 @@ You can click the Preview link to take a look at your changes.
 
     "PRIVATE_GROUP_ID": {
 
-      "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "Create a private group add @Babydolbot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
 
       "value": ""
 
@@ -272,7 +272,7 @@ You can click the Preview link to take a look at your changes.
 
     "PM_LOGGR_BOT_API_ID": {
 
-       "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
+       "description": "for login private messages create a private group and add @Babydolbot and do /id and add that id", 
 
        "value": ""
 
@@ -280,7 +280,7 @@ You can click the Preview link to take a look at your changes.
 
     "PYTHON_STRING": {
 
-      "description": "Get this value by running https://replit.com/@Weedb0y0/PYTHONBOT-4#main.py ",
+      "description": "Get this value by running PYTHONBOT-4#main.py/jhonvick882@gmail.com/PYTHONBOT-4#main.py ",
 
       "value": ""
 
@@ -308,7 +308,7 @@ You can click the Preview link to take a look at your changes.
 
     "BOT_TOKEN": {
 
-      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
+      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.me/kk_Legend) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
 
       "value": ""
 
@@ -424,11 +424,11 @@ You can click the Preview link to take a look at your changes.
 
     {
 
-      "url": "https://github.com/Weedb0y0/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/kktheuniqueboy@gmail.com-heroku-buildpack-ffmpeg-latest"
 
   },{
 
-    "url":"https://github.com/weedb0y/Weedb0y0-heroku.git"
+    "url":"https://github.com/weeedb0y/weeedb0y-heroku.git"
 
   },{
 
